@@ -1,0 +1,22 @@
+{
+  "name": "elysium-discord",
+  "version": "1.0.0",
+  "description": "Ein Discord Bot für den Server Elysium.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MartinExecutionMedia/Elysium-Discord.js.git"
+  },
+  "author": "Martin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MartinExecutionMedia/Elysium-Discord.js/issues"
+  },
+  "homepage": "https://github.com/MartinExecutionMedia/Elysium-Discord.js#readme",
+  "dependencies": {
+    "discord.js": "^13.1.0"
+  }
+}
